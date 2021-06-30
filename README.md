@@ -4,4 +4,4 @@ Olá, bem-vind@ ao meu livro de receitas 👋🏻
 
  - Strogonoff de frango
  - Pavê
- - Bolo de fubá
+ - Bolo de cenoura
